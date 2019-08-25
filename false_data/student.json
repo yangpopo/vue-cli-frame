@@ -1,0 +1,25 @@
+{
+	"student": [
+		{
+			"name": "Liz",
+			"age": 20,
+			"class": "xinguan1163",
+			"number": 1
+		}, {
+			"name": "aiz",
+			"age": 22,
+			"class": "xinguan1163",
+			"number": 2
+		}, {
+			"name": "siz",
+			"age": 21,
+			"class": "xinguan1163",
+			"number": 3
+		}, {
+			"name": "qiz",
+			"age": 25,
+			"class": "xinguan1163",
+			"number": 5
+		}
+	]
+}

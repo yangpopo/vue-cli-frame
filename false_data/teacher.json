@@ -1,0 +1,15 @@
+{
+	"teacher": [
+		{
+			"name": "qiz",
+			"age": 45,
+			"class": "xinguan1163",
+			"number": 5
+		}, {
+			"name": "riz",
+			"age": 35,
+			"class": "xinguan1163",
+			"number": 5
+		}
+	]
+}
