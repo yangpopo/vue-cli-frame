@@ -12,7 +12,7 @@
     "axios": "^0.18.0",
     "echarts": "^4.2.0-rc.2",
     "element-ui": "^2.4.9",
-    "jquery": "^1.8",
+    "jquery": "^3.5",
     "scss-loader": "0.0.1",
     "vue": "^2.5.1",
     "vue-router": "^3.0.2"
